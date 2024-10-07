@@ -16,7 +16,7 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Hello World
+## Title
 
 Body
 
