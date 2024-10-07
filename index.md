@@ -10,7 +10,10 @@ header:
       url: "/sample/"
 excerpt: " "
 intro:
-  - excerpt: ""
+  - Name: "Asyraf"
+  - Department: "AI"
+  - Profile Picture: C:\Users\Acer Nitro\Pictures\Camera Roll
+  - Description: "20 years old"
 ---
 
 {% include feature_row id="intro" type="center" %}
