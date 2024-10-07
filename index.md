@@ -11,7 +11,7 @@ header:
 excerpt: " "
 intro:
   - Name: "Asyraf"
-  - Department: "AI
+  - Department: "AI"
 ---
 
 {% include feature_row id="intro" type="center" %}
